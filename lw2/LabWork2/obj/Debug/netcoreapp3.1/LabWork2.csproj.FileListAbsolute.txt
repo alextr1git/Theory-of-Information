@@ -1,0 +1,16 @@
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.exe
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.deps.json
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.runtimeconfig.json
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.runtimeconfig.dev.json
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.dll
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\bin\Debug\netcoreapp3.1\LabWork2.pdb
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.csproj.AssemblyReference.cache
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.Form1.resources
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.csproj.GenerateResource.cache
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.AssemblyInfoInputs.cache
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.AssemblyInfo.cs
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.csproj.CoreCompileInputs.cache
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.dll
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.pdb
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ТИ\lw2\LabWork2\LabWork2\obj\Debug\netcoreapp3.1\LabWork2.genruntimeconfig.cache
